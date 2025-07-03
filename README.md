@@ -33,3 +33,7 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
 ## Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
 - Python 3.x with :
+  * 'smtplib'
+  * 'ssl'
+  * 'email'
+  * (Recommended) A Gmail App Password configured. 
