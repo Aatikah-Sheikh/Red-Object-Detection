@@ -10,3 +10,12 @@ The system performs the following:
 * Sends an email with the captured image attached.
 * Returns to the start posiition after detection.
 This work was completed as part of **Task 2: Automated Control Signal Notification**, 202. 
+
+# Files Included
+- 'run_flight_live.m':
+  * It is the main MATLAB script.
+  * Starts the simulation.
+  * Detects the red object.
+  * Saves the image
+  * Calls the python script to email the image.
+  
