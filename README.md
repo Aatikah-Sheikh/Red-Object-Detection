@@ -31,3 +31,5 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
     * (Optional) Script for visualising and testing image channels and red masks. 
  
 ## Requirements 
+- MATLAB with the Parrot Minidrone Support Package Installed.
+- Python 3.x with :
