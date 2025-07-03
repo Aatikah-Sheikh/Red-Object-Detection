@@ -37,3 +37,6 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
   * 'ssl'
   * 'email'
   * (Recommended) A Gmail App Password configured. 
+
+## How to use
+Note this project runs in simulation mode only and does not deploydirectly onto the drone hardware. 
