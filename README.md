@@ -30,3 +30,4 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
    - 'test.m':
     * (Optional) Script for visualising and testing image channels and red masks. 
  
+## Requirements 
