@@ -18,7 +18,15 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
   * Detects the red object.
   * Saves the image
   * Calls the python script to email the image.
+    
 - 'red_alert.py':
   * This is the python script.
   * Waits for the saved image.
-  * Sends an email notification with the image attached.  
+  * Sends an email notification with the image attached.
+
+ - 'parrotMinidroneCompetition.slx':
+   * Simulink model file for path planning, image processing, and control logic.
+
+   - 'test.m':
+    * (Optional) Script for visualising and testing image channels and red masks. 
+ 
