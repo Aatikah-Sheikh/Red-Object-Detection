@@ -52,7 +52,7 @@ The respository is structured as follows:
   * Stateflow
   *  Image Processing
 - Mambo Parrot Minidrone Support Packages.
-- Python 3.x installed and accesible in MATLAB.
+- Python 3.x installed and accessible in MATLAB.
 - Python should be installed with the following packages:
   * 'smtplib'
   * 'ssl'
