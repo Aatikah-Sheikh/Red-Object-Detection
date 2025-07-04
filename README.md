@@ -11,9 +11,11 @@ This repository contians all code and models for the Parrot Minidrone red object
  
  -[Repository Structure](#repository-structure)
  
+  -[Requirements](#requirements)
+  
   -[How to Use](#how-to-use)
   
-  -[Requirements](#requirements)
+  
  
 ## Project Overview
 The system performs the following:
@@ -44,8 +46,8 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
       
 - 'waypoints.csv'
    * 
- 
-## Requirements 
+## Repository Structure
+### Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
 - Python 3.x with :
   * 'smtplib'
@@ -53,5 +55,5 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
   * 'email'
   * (Recommended) A Gmail App Password configured. 
 
-## How to use
+### How to use
 Note this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
