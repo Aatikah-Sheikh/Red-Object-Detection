@@ -44,7 +44,8 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
    * (Optional) Script for visualising and testing image channels and red masks.
       
 - 'waypoints.csv'
-   * 
+   * Helps build the track for path planning.
+     
 ## Repository Structure
 The respository is structured as follows
 ### Requirements 
