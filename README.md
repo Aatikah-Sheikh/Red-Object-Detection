@@ -72,6 +72,9 @@ The respository is structured as follows:
 ![Waypoint Data Import](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20094123.png)
 
 5. Once the points are loaded, the virtual world for the simulation needs to be uploaded. 
+
+![Updating the Virtual World](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20102842.png)
+
 6. Configure the python email script:
    * Open 'red_alert.py'
    * Locate the email configuration section.
