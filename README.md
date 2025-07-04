@@ -94,8 +94,10 @@ The respository is structured as follows:
 
 ## Troubleshooting
 -**Python module errors:** Make sure your Python environment is visible to MATLAB ('pyenv').
+
 -**Email not sending:** 
     *Confirm you set up an App Password and allowed less secure apps.
     * In simulation settings make sure 'Single SImulation Output' is unticked.
+    
  -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
 
