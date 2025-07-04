@@ -78,7 +78,7 @@ The repository includes the following files:
 
 ![Waypoint Data Import](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20094123.png)
 
-5. Once the points are loaded, the virtual world for the simulation needs to be uploaded. 
+5. Once the points are loaded, the virtual world for the simulation needs to be updated. 
 
 ![Updating the Virtual World](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20102842.png)
 
