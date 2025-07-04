@@ -87,7 +87,15 @@ The respository is structured as follows:
      - Replace these values with the Gmail address you want to send from.
      - The Gmail App Password (not your normal password).
      - The recipient's email.
-7. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
+7. Ensure your Python environment is set up and all required packages are installed. 
 8. In MATLAB, open 'run_flight_live.m'.
 9. Click Run to start the simulation.
-10. Check your email inbox to confirm receipt of the alert with the image attachment. 
+10. Check your email inbox to confirm receipt of the alert with the image attachment.
+
+## Troubleshooting
+-**Python module errors:** Make sure your Python environment is visible to MATLAB ('pyenv').
+-**Email not sending:** 
+    *Confirm you set up an App Password and allowed less secure apps.
+    * In simulation settings make sure 'Single SImulation Output' is unticked.
+ -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
+
