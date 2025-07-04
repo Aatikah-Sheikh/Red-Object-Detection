@@ -28,7 +28,10 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
    * Simulink model file for path planning, image processing, and control logic.
 
    - 'test.m':
-    * (Optional) Script for visualising and testing image channels and red masks. 
+    * (Optional) Script for visualising and testing image channels and red masks.
+      
+   - 'waypoints.csv'
+    * 
  
 ## Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
@@ -39,4 +42,4 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
   * (Recommended) A Gmail App Password configured. 
 
 ## How to use
-Note this project runs in simulation mode only and does not deploydirectly onto the drone hardware. 
+Note this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
