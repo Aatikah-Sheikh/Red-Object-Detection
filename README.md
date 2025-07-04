@@ -59,7 +59,7 @@ The respository is structured as follows:
   * 'email'
   * 'os'
   * 'time'
--(Recommended) A valid Gmail  account and App Password for SMTP Authentication. 
+-(Recommended) A valid Gmail  account and App Password for SMTP Authentication.
 
 ### How to use
 **Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
