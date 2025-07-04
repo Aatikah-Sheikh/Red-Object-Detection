@@ -7,7 +7,7 @@ This repository contains all code and models for the Parrot Minidrone red object
 
  -[Files Included](#files-included)
  
- -[Repository Structure](#repository-structure)
+ -[Environment Setup and Usage Instructions](#environment-setup-and-usage-instructions)
  
  -[Requirements](#requirements)
   
@@ -48,8 +48,8 @@ This work was completed as part of **Vacation Work, Task 2: Automated Control Si
 - 'waypoints.csv'
    * Helps build the track for path planning.
      
-## Repository Structure
-The respository is structured as follows:
+## Environment Setup and Usage Instructions
+
 ### Requirements 
 - MATLAB 2023b (Recommended) with the following MathWorks packages:
    - Simulink
