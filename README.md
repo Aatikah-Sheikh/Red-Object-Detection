@@ -7,8 +7,6 @@ This repository contians all code and models for the Parrot Minidrone red object
 
  -[Files Included](#files-included)
  
- -[Features](#features)
- 
  -[Repository Structure](#repository-structure)
  
   -[Requirements](#requirements)
@@ -49,8 +47,13 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
 ## Repository Structure
 The respository is structured as follows:
 ### Requirements 
-- MATLAB with the Parrot Minidrone Support Package Installed.
-- Python 3.x with :
+- MATLAB 2023b with the following MathWorks packages:
+  * Simulink
+  * Stateflow
+  *  Image Processing
+- Mambo Parrot Minidrone Support Packages.
+- Python 3.x installed and accesible in MATLAB.
+- Python should be installed with the following packages:
   * 'smtplib'
   * 'ssl'
   * 'email'
