@@ -47,7 +47,7 @@ This work was completed as part of **Vacation Work, Task 2: Automated Control Si
 ## Repository Structure
 The respository is structured as follows:
 ### Requirements 
-- MATLAB 2023b with the following MathWorks packages:
+- MATLAB 2023b (Recommended) with the following MathWorks packages:
   * Simulink
   * Stateflow
   * Image Processing
