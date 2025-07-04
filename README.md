@@ -52,9 +52,9 @@ This work was completed as part of **Vacation Work, Task 2: Automated Control Si
 The respository is structured as follows:
 ### Requirements 
 - MATLAB 2023b (Recommended) with the following MathWorks packages:
-  * Simulink
-  * Stateflow
-  * Image Processing
+   - Simulink
+   - Stateflow
+   - Image Processing
 - Mambo Parrot Minidrone Support Packages.
 - Python 3.x must be compatible with your installed version of MATLAB and accessible within MATLAB. 
 - Python should be installed with the following packages:
