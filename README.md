@@ -50,9 +50,9 @@ The respository is structured as follows:
 - MATLAB 2023b with the following MathWorks packages:
   * Simulink
   * Stateflow
-  *  Image Processing
+  * Image Processing
 - Mambo Parrot Minidrone Support Packages.
-- Python 3.x installed and accessible in MATLAB.
+- Python 3.x must be compatible with your installed version of MATLAB and accessible within MATLAB.
 - Python should be installed with the following packages:
   * 'smtplib'
   * 'ssl'
