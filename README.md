@@ -66,8 +66,9 @@ The respository is structured as follows:
 1. **Clone or download** this repository.
 2. Open MATLAB and set the working directory to the repository folder.
 3. Load your waypoint data file (csv).
-4. **Important: Waypoint Data Setup** Before runnng the script, you must import the waypoint data and assign it to a numeric matrix variable. From there you then create a variable for example U = waypoints in the command window.
-5. Configure the python email script:
+4. **Important: Waypoint Data Setup** Before running the script, you must import the waypoint data and assign it to a numeric matrix variable. From there you then create a variable for example U = waypoints in the command window.
+5. Once the points are loaded, the virtual world for the simulation needs to be uploaded. 
+6. Configure the python email script:
    * Open 'red_alert.py'
    * Locate the email configuration section.
      - Replace these values with the Gmail address you want to send from.
