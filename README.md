@@ -102,7 +102,7 @@ The respository is structured as follows:
     -Confirm you set up an App Password and allowed less secure apps.
     -In simulation settings make sure 'Single Simulation Output' is unticked.
 
-    ![Simulation Check](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20104509.png)
+ ![Simulation Check](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20104509.png)
     
  -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
 
