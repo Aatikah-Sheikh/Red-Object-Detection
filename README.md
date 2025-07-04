@@ -5,7 +5,7 @@ This repository contains all code and models for the Parrot Minidrone red object
 ## Table of Contents
  -[Project Overview and Features](#project-overview-and-features)
 
- -[Files Included](#files-included)
+ -[Repository Structure](#repository-structure)
  
  -[Environment Setup and Usage Instructions](#environment-setup-and-usage-instructions)
  
@@ -26,7 +26,10 @@ The system performs the following:
 * Returns to the start position after detection.
 This work was completed as part of **Vacation Work, Task 2: Automated Control Signal Notification**, 2025. 
 
-## Files Included
+## Repository Structure
+The repository includes the following files: 
+
+### Files Included
 - 'run_flight_live.m':
   * It is the main MATLAB script.
   * Starts the simulation.
