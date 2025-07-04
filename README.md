@@ -65,9 +65,14 @@ The respository is structured as follows:
 **Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
 1. **Clone or download** this repository.
 2. Open MATLAB and set the working directory to the repository folder.
-3. 
-4. Load your waypoint data file (csv).
-5. **Important: Waypoint Data Setup** Before runnng the script, you must import the waypoint data and assign it to a numeric matrix variable. From there you then create a variable for example U = waypoints in the command window.
-6. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
-7. In MATLAB, open 'run_flight_live.m'.
-8. Click Run to start the simulation. 
+3. Load your waypoint data file (csv).
+4. **Important: Waypoint Data Setup** Before runnng the script, you must import the waypoint data and assign it to a numeric matrix variable. From there you then create a variable for example U = waypoints in the command window.
+5. Configure the python email script:
+   * Open 'red_alert.py'
+   * Locate the email configuration section.
+     - Replace these values with the Gmail address you want to send from.
+     - The Gmail App Password (not your normal password).
+     - Th recipient's email.
+7. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
+8. In MATLAB, open 'run_flight_live.m'.
+9. Click Run to start the simulation. 
