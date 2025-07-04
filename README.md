@@ -112,6 +112,7 @@ The repository includes the following files:
  ![Simulation Check](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20104509.png)
     
  -**Simulation errors:** 
+ 
      - Check if all MATLAB toolboxes are installed. 
  
 ## Resources
