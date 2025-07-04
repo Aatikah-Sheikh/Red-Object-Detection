@@ -16,7 +16,7 @@ This repository contians all code and models for the Parrot Minidrone red object
   -[How to Use](#how-to-use)
   
  
-## Project Overview
+## Project Overview and Features
 The system performs the following:
 * Detects a red object during flight in a simulation.
 * Captures an image when the object is detected.
