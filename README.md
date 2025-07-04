@@ -48,6 +48,7 @@ This work was completed as part of **Vacation Work, Task 2: Automated Control Si
 The respository is structured as follows:
 ### Requirements 
 - MATLAB 2023b (Recommended) with the following MathWorks packages:
+Link to check compatibility: https://www.mathworks.com/support/requirements/python-compatibility.html
   * Simulink
   * Stateflow
   * Image Processing
