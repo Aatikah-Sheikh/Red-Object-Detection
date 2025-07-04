@@ -3,9 +3,11 @@ Drone Detection and automated email system
 
 This repository contains all code and models for the Parrot Minidrone red object detection and automated email notification system. 
 ## Table of Contents
+
  -[Project Overview and Features](#project-overview-and-features)
 
  -[Repository Structure](#repository-structure)
+   * [Files Included](#files-included)
  
  -[Environment Setup and Usage Instructions](#environment-setup-and-usage-instructions)
  
