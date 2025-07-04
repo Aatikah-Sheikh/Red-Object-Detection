@@ -66,4 +66,5 @@ The respository is structured as follows:
 1. **Clone or download** this repository.
 2. Open MATLAB and set the working directory to the repository folder.
 3. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
-4. 
+4. Load your waypoint data file (csv).
+5. ** Important: Waypoint Data Setup** Before runnng the script, you must import the waypoint data and assign it to a numeric matrix variable. From there you then create a variable for example U = waypoints in the command window. 
