@@ -53,7 +53,9 @@ The respository is structured as follows
   * 'smtplib'
   * 'ssl'
   * 'email'
-  * (Recommended) A Gmail App Password configured. 
+  * 'os'
+  * 'time'
+ -(Recommended) A valid Gmail  account and App Password for SMTP Authentication. 
 
 ### How to use
 Note this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
