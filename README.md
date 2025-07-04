@@ -72,6 +72,7 @@ The respository is structured as follows:
 6. Configure the python email script:
    * Open 'red_alert.py'
    * Locate the email configuration section.
+   ![Python Code to edit](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20102046.png)
      - Replace these values with the Gmail address you want to send from.
      - The Gmail App Password (not your normal password).
      - The recipient's email.
