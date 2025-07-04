@@ -24,8 +24,6 @@ The system performs the following:
 * Returns to the start position after detection.
 This work was completed as part of **Task 2: Automated Control Signal Notification**, 2025. 
 
-## Features
-
 ## Files Included
 - 'run_flight_live.m':
   * It is the main MATLAB script.
@@ -49,7 +47,7 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
    * Helps build the track for path planning.
      
 ## Repository Structure
-The respository is structured as follows
+The respository is structured as follows:
 ### Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
 - Python 3.x with :
