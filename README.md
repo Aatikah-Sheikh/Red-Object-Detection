@@ -21,8 +21,8 @@ The system performs the following:
 * Detects a red object during flight in a simulation.
 * Captures an image when the object is detected.
 * Sends an email with the captured image attached.
-* Returns to the start posiition after detection.
-This work was completed as part of **Task 2: Automated Control Signal Notification**, 202. 
+* Returns to the start position after detection.
+This work was completed as part of **Task 2: Automated Control Signal Notification**, 2025. 
 
 ## Features
 - 'run_flight_live.m':
@@ -46,6 +46,7 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
 - 'waypoints.csv'
    * 
 ## Repository Structure
+The respository is structured as follows
 ### Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
 - Python 3.x with :
