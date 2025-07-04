@@ -1,7 +1,7 @@
 # ParrotMinidroneRedAlert
 Drone Detection and automated email system
 
-This repository contains all code and models for the Parrot Minidrone red object Detection and automated email notification system. 
+This repository contains all code and models for the Parrot Minidrone red object detection and automated email notification system. 
 ## Table of Contents
  -[Project Overview and Features](#project-overview-and-features)
 
@@ -20,7 +20,7 @@ The system performs the following:
 * Captures an image when the object is detected.
 * Sends an email with the captured image attached.
 * Returns to the start position after detection.
-This work was completed as part of **Task 2: Automated Control Signal Notification**, 2025. 
+This work was completed as part of **Vacation Work, Task 2: Automated Control Signal Notification**, 2025. 
 
 ## Files Included
 - 'run_flight_live.m':
