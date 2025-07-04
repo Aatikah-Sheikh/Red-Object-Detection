@@ -99,8 +99,8 @@ The respository is structured as follows:
 
 -**Email not sending:** 
 
-    *Confirm you set up an App Password and allowed less secure apps.
-    *In simulation settings make sure 'Single SImulation Output' is unticked.
+    -Confirm you set up an App Password and allowed less secure apps.
+    -In simulation settings make sure 'Single SImulation Output' is unticked.
     
  -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
 
