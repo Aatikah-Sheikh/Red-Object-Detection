@@ -109,4 +109,4 @@ The respository is structured as follows:
  -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
  
 ## Resources
-  *SMTP App Password Setup : https://proximatesolutions.com/how-to-set-up-smtp-using-google-app-passwords/
+  * SMTP App Password Setup : https://proximatesolutions.com/how-to-set-up-smtp-using-google-app-passwords/
