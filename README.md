@@ -106,5 +106,6 @@ The respository is structured as follows:
  -**Simulation errors:** Check if all MATLAB toolboxes are installed. 
  
 ## Resources
+  * Parrot Minidrones: https://www.mathworks.com/help/simulink/supportpkg-parrot.html
   * SMTP App Password Setup : https://proximatesolutions.com/how-to-set-up-smtp-using-google-app-passwords/
-  *   Python Compatibility with different Version of MATLAB: https://www.mathworks.com/support/requirements/python-compatibility.html
+  * Python Compatibility with different Version of MATLAB: https://www.mathworks.com/support/requirements/python-compatibility.html
