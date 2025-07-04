@@ -56,10 +56,7 @@ The respository is structured as follows:
   * Stateflow
   * Image Processing
 - Mambo Parrot Minidrone Support Packages.
-- Python 3.x must be compatible with your installed version of MATLAB and accessible within MATLAB.
-
-  Link to check compatibility: https://www.mathworks.com/support/requirements/python-compatibility.html
-  
+- Python 3.x must be compatible with your installed version of MATLAB and accessible within MATLAB. 
 - Python should be installed with the following packages:
   * 'smtplib'
   * 'ssl'
@@ -110,3 +107,4 @@ The respository is structured as follows:
  
 ## Resources
   * SMTP App Password Setup : https://proximatesolutions.com/how-to-set-up-smtp-using-google-app-passwords/
+  *   Python Compatibility with different Version of MATLAB: https://www.mathworks.com/support/requirements/python-compatibility.html
