@@ -95,6 +95,7 @@ The respository is structured as follows:
 
 ## Troubleshooting
 -**Python module errors:** 
+
      - Make sure your Python environment is visible to MATLAB ('pyenv').
      - Some packages might not be installed. 
      - Double-check you are using Python 3.x compatible with MATLAB. 
