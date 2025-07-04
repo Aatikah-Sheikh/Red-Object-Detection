@@ -72,7 +72,8 @@ The respository is structured as follows:
    * Locate the email configuration section.
      - Replace these values with the Gmail address you want to send from.
      - The Gmail App Password (not your normal password).
-     - Th recipient's email.
+     - The recipient's email.
 7. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
 8. In MATLAB, open 'run_flight_live.m'.
-9. Click Run to start the simulation. 
+9. Click Run to start the simulation.
+10. Check your email inbox to confirm receipt of the alert with the image attachment. 
