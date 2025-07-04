@@ -12,6 +12,8 @@ This repository contains all code and models for the Parrot Minidrone red object
   -[Requirements](#requirements)
   
   -[How to Use](#how-to-use)
+
+  -[Troubleshooting](#troubleshooting)
   
  
 ## Project Overview and Features
