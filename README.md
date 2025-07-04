@@ -63,3 +63,7 @@ The respository is structured as follows:
 
 ### How to use
 **Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
+1. **Clone or download** this repository.
+2. Open MATLAB and set the working directory to the repository folder.
+3. Ensure your Python environment is set up and all required packages are installed. Check this using 'pyenv'.
+4. 
