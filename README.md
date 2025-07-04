@@ -2,7 +2,9 @@
 Drone Detection and automated email system
 
 This repository contians all code and models for the Parrot Minidrone red object Detection and automated email notification system. 
-
+## Table of Contents
+ -[Overview] (#overview)
+ 
 ## Project Overview
 The system performs the following:
 * Detects a red object during flight in a simulation.
@@ -24,14 +26,14 @@ This work was completed as part of **Task 2: Automated Control Signal Notificati
   * Waits for the saved image.
   * Sends an email notification with the image attached.
 
- - 'parrotMinidroneCompetition.slx':
-   * Simulink model file for path planning, image processing, and control logic.
+- 'parrotMinidroneCompetition.slx':
+  * Simulink model file for path planning, image processing, and control logic.
 
-   - 'test.m':
-    * (Optional) Script for visualising and testing image channels and red masks.
+- 'test.m':
+   * (Optional) Script for visualising and testing image channels and red masks.
       
-   - 'waypoints.csv'
-    * 
+- 'waypoints.csv'
+   * 
  
 ## Requirements 
 - MATLAB with the Parrot Minidrone Support Package Installed.
