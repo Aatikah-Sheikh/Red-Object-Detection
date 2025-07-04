@@ -25,6 +25,8 @@ The system performs the following:
 This work was completed as part of **Task 2: Automated Control Signal Notification**, 2025. 
 
 ## Features
+
+## Files Included
 - 'run_flight_live.m':
   * It is the main MATLAB script.
   * Starts the simulation.
