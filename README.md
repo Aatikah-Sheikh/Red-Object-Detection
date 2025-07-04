@@ -9,13 +9,13 @@ This repository contains all code and models for the Parrot Minidrone red object
  
  -[Repository Structure](#repository-structure)
  
-  -[Requirements](#requirements)
+ -[Requirements](#requirements)
   
-  -[How to Use](#how-to-use)
+ -[How to Use](#how-to-use)
 
-  -[Troubleshooting](#troubleshooting)
+ -[Troubleshooting](#troubleshooting)
 
-  -[Resources](#resources)
+ -[Resources](#resources)
   
  
 ## Project Overview and Features
@@ -94,12 +94,16 @@ The respository is structured as follows:
 10. Check your email inbox to confirm receipt of the alert with the image attachment.
 
 ## Troubleshooting
--**Python module errors:** Make sure your Python environment is visible to MATLAB ('pyenv').
+-**Python module errors:** 
+     - Make sure your Python environment is visible to MATLAB ('pyenv').
+     - Some packages might not be installed. 
+     - Double-check you are using Python 3.x compatible with MATLAB. 
 
 -**Email not sending:** 
 
-    -Confirm you set up an App Password and allowed less secure apps.
-    -In simulation settings make sure 'Single Simulation Output' is unticked.
+    - Confirm you set up an App Password and allowed less secure apps.
+    - In simulation settings make sure 'Single Simulation Output' is unticked.
+    - Path to LiveFrame.jpg is incorrect. 
 
  ![Simulation Check](https://github.com/aatikah21/ParrotMinidroneRedAlert/blob/main/images/Screenshot%202025-07-04%20104509.png)
     
