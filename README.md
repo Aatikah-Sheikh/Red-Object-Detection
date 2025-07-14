@@ -70,7 +70,7 @@ The repository includes the following files:
 
  - A valid Gmail  account and App Password for SMTP Authentication (Recommended).
 
-####Compatibility 
+#### Compatibility 
 This project was developed and tested with:
 * MATLAB 2023b
 * Python 3.11
