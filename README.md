@@ -77,7 +77,7 @@ This project was developed and tested with:
 * Python 3.11
 
 ### How to Use
-**Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
+**Note:** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
 1. **Clone or download** this repository.
 2. Open MATLAB and set the working directory to the repository folder.
 3. Load your waypoint data file (csv).
