@@ -70,7 +70,7 @@ The repository includes the following files:
 
  - A valid Gmail  account and App Password for SMTP Authentication (Recommended).
 
-### How to use
+### How to Use
 **Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
 1. **Clone or download** this repository.
 2. Open MATLAB and set the working directory to the repository folder.
