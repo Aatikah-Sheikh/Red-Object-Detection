@@ -70,6 +70,11 @@ The repository includes the following files:
 
  - A valid Gmail  account and App Password for SMTP Authentication (Recommended).
 
+####Compatibility 
+This project was developed and tested with:
+* MATLAB 2023b
+* Python 3.11
+
 ### How to Use
 **Note** this project runs in simulation mode only and does not deploy directly onto the drone hardware. 
 1. **Clone or download** this repository.
