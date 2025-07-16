@@ -1,6 +1,6 @@
 # ParrotMinidroneRedAlert
 #### Drone Detection and automated email system
-
+This repository contains all code, Simulink models, and Python scripts for a simulation-based system that enables the Parrot Mambo Minidrone to detect red objects and automtically send email notifications. The solution operates in simulation only and demonstrates the integration of real-time image processing with event-driven automation to capture evidence and trigger alerts. 
 
 ## Table of Contents
 
